@@ -13,7 +13,7 @@ A ideia da biblioteca é compartilhar soluções por meio de funções ou métod
 
 ## Diferença
 <p align= "center">
-<img src= "https://github.com/botelholarissa/exercicio-aula1-larissa/blob/master/diferenca.png">
+<img src= "https://github.com/botelholarissa/exercicio-aula1-larissa/blob/master/img/diferenca.png">
 <p>
 A diferença entre uma biblioteca e um framework é que o último chama o código. Oposto a isso, o código chama a biblioteca de software.
 
