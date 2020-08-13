@@ -1,4 +1,4 @@
-# Bibliotecas e Framewors
+# Bibliotecas e Frameworks
 
 ## Framework
 É um conjunto de códigos abstratos que unem códigos com recursos iguais. Ou seja, está ligado à arquitetura do seu software. As funcionalidades de um framework podem ser bem variadas.
@@ -12,6 +12,9 @@ A ideia da biblioteca é compartilhar soluções por meio de funções ou métod
 
 
 ## Diferença
+<p align= "center">
+<img src= "https://github.com/botelholarissa/exercicio-aula1-larissa/blob/master/diferenca.png">
+<p>
 A diferença entre uma biblioteca e um framework é que o último chama o código. Oposto a isso, o código chama a biblioteca de software.
 
 ## Referências
