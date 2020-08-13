@@ -19,5 +19,7 @@ A diferença entre uma biblioteca e um framework é que o último chama o códig
 
 ## Referências
 "What is Frameworks? [Definition] Types of Frameworks" https://hackr.io/blog/what-is-frameworks
+
 "Qual é a diferença de API, biblioteca e Framework?" https://pt.stackoverflow.com/questions/17501/qual-%C3%A9-a-diferen%C3%A7a-de-api-biblioteca-e-framework
+
 "What is the difference between a framework and a library?" https://stackoverflow.com/questions/148747/what-is-the-difference-between-a-framework-and-a-library
